@@ -8,4 +8,4 @@ d=5
 
 y = d ** 2
 
-string
+stringfvfvfdf
