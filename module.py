@@ -7,3 +7,5 @@ def func(a, b):
 d=5
 
 y = d ** 2
+
+string
